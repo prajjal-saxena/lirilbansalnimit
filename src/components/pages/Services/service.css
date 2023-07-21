@@ -1,0 +1,42 @@
+.audit-cover{
+    background-image: linear-gradient(to right bottom, rgba(16, 17, 17, 0.727), rgba(6, 6, 6, 0.655)),
+                      url('../../../img/auditSit.jpg');
+    height: 40vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size:cover;
+}
+.direct-tax{
+    background-image: linear-gradient(to right bottom, rgba(16, 17, 17, 0.727), rgba(6, 6, 6, 0.655)),
+    url('../../../img/directTaxation.jpg');
+}
+.indirect-tax{
+    background-image: linear-gradient(to right bottom, rgba(16, 17, 17, 0.727), rgba(6, 6, 6, 0.655)),
+    url('../../../img/indirectTax.jpg');
+}
+.corporate-project{
+    background-image: linear-gradient(to right bottom, rgba(16, 17, 17, 0.727), rgba(6, 6, 6, 0.655)),
+    url('../../../img/corporate.jpg'); 
+}
+.accounting{
+    background-image: linear-gradient(to right bottom, rgba(16, 17, 17, 0.727), rgba(6, 6, 6, 0.655)),
+    url('../../../img/accounting.jpg');  
+    background-position:bottom;  
+}
+.constitution{
+    background-image: linear-gradient(to right bottom, rgba(16, 17, 17, 0.727), rgba(6, 6, 6, 0.655)),
+    url('../../../img/constitution.jpg');    
+    background-position:center;
+}
+.audit-cover-para{
+    height: 40vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.about-cover{
+    background-image: linear-gradient(to right bottom, rgba(15, 33, 32, 0.465), rgba(5, 136, 132, 0.202)),
+    url('../../../img/about.jpg');
+}
